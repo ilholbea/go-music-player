@@ -24,3 +24,5 @@
 .env
 build/
 qodana.yaml
+
+*.flac
